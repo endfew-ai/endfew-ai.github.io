@@ -2,6 +2,11 @@
   "policy": "Only visually reviewed, symbol-free artwork and nature cards may be published. I Ching line symbols are rendered by code.",
   "published": [
     {
+      "path": "/assets/aaa/core/academy-mode-loading-portal-v1.webp",
+      "bytes": 98588,
+      "sha256": "016d589621d94d1ee9ea6b90643ee5bb53d5a022a99b459dc51558d9ccf54f57"
+    },
+    {
       "path": "/assets/aaa/core/core-home-mountain-study-v1.webp",
       "bytes": 179368,
       "sha256": "5756e7400297cd840d4fef186edc8f91dae017050e1e6195be3f9ccd28829631"
