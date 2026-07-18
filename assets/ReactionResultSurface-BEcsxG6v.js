@@ -1,0 +1,1 @@
+import{t as e}from"./vendor-react-DVKCXY3Z.js";import{qo as t}from"./game-data-Cv1Dw8d9.js";var n=e();function r({tone:e}){return(0,n.jsx)(`img`,{alt:``,"aria-hidden":`true`,className:`reaction-result-surface`,decoding:`async`,draggable:`false`,fetchPriority:`low`,onError:e=>{e.currentTarget.hidden=!0},src:t.reactionResultSurfaces[e]})}export{r as t};
