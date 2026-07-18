@@ -907,9 +907,24 @@
       "sha256": "a7b0be86b01c9401f974089c11e316cbc1357c248ea1d7199cb0e9369fa78ce2"
     },
     {
+      "path": "/assets/iching/academy-home/academy-command-panel-v1.webp",
+      "bytes": 58890,
+      "sha256": "e9b6f81218f829a23c49f060742a8daea68c961744b01dcf4548cd4f1e7006aa"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-ornamental-overlay-v1.webp",
+      "bytes": 306248,
+      "sha256": "8965ea6bc6ab24f8685119615b76f002cf610eb58d0aaeb8bacf66ea19d726d0"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-palace-bg-v1.webp",
       "bytes": 441612,
       "sha256": "bcd30e3c7ce0d3bc3f96c6b6e627c6e5089572fd64c78f924462bd5c9c8c9236"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-primary-button-states-v2.webp",
+      "bytes": 58686,
+      "sha256": "e6be11d3d60cd6e9db16edd8438f3957a1cfc1d499eb67660fb41a2572ab2ba8"
     },
     {
       "path": "/assets/iching/academy-home/feature-battle-v1.webp",
@@ -935,6 +950,11 @@
       "path": "/assets/iching/academy-home/fx-battle-contact-v1.webp",
       "bytes": 17976,
       "sha256": "864d81e5c6569ac7c11921af499f5fb2990259c2e03033a2982b4a295589d548"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-command-panel-open-v1.webp",
+      "bytes": 40736,
+      "sha256": "e26f91e119f27667a469c1b5bfaed6d90ab3d9c396a2b36a70bf4d515250f87e"
     },
     {
       "path": "/assets/iching/academy-home/fx-study-contact-v1.webp",
@@ -1168,6 +1188,7 @@
     "/assets/combat/stages/stage-oracle.png",
     "/assets/combat/stages/stage-trial.png",
     "/assets/effects/success-glow.png",
+    "/assets/iching/academy-home/academy-primary-button-states-v1.webp",
     "/assets/learning/badges/encouragement.png",
     "/assets/learning/badges/mastery.png",
     "/assets/learning/badges/pass-stamp.png",
