@@ -907,6 +907,36 @@
       "sha256": "a7b0be86b01c9401f974089c11e316cbc1357c248ea1d7199cb0e9369fa78ce2"
     },
     {
+      "path": "/assets/iching/academy-home/academy-palace-bg-v1.webp",
+      "bytes": 441612,
+      "sha256": "bcd30e3c7ce0d3bc3f96c6b6e627c6e5089572fd64c78f924462bd5c9c8c9236"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-battle-v1.webp",
+      "bytes": 56108,
+      "sha256": "8b0bd5a8dfcc3616e65a329359116628dfed6bdf260a579ce6765e570780ba61"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-study-v1.webp",
+      "bytes": 99642,
+      "sha256": "b73fbe3d92e2c1065630b65a86af677e5615ba2221bc4b8da1889fa5324f2d5a"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-training-v1.webp",
+      "bytes": 68104,
+      "sha256": "bd637f810318caebd1673db498fb4a0535b96e23ff61c3ec2f03f0c3a6551314"
+    },
+    {
+      "path": "/assets/iching/academy-home/feature-trial-v1.webp",
+      "bytes": 74910,
+      "sha256": "0b04c2177180d4e2f785f54d3a046a2209887cf7e9853901618ccec4023a5d13"
+    },
+    {
+      "path": "/assets/iching/academy-home/player-scholar-v1.webp",
+      "bytes": 17350,
+      "sha256": "51e241561bd93b91a0a07d3487b81bb7b88073222b6c434f3a9b5ab32bbfbf14"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
