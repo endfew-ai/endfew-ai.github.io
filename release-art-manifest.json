@@ -972,6 +972,11 @@
       "sha256": "bcd30e3c7ce0d3bc3f96c6b6e627c6e5089572fd64c78f924462bd5c9c8c9236"
     },
     {
+      "path": "/assets/iching/academy-home/academy-player-profile-frame-v1.webp",
+      "bytes": 27488,
+      "sha256": "fef16273e5cb7cc0e889ba3b9f87724e2693176e122acb3f8b18c41ad3952354"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-primary-button-states-v2.webp",
       "bytes": 58686,
       "sha256": "e6be11d3d60cd6e9db16edd8438f3957a1cfc1d499eb67660fb41a2572ab2ba8"
