@@ -282,6 +282,21 @@
       "sha256": "1780f5a2ad09c45d7dd7b93eedb71803a7029f509ef015805c7346f89f8d10b1"
     },
     {
+      "path": "/assets/aaa/home-actions/fx-home-action-contact-v1.webp",
+      "bytes": 9938,
+      "sha256": "4b57ca052d565343af4e878b04ee091dea365b6819f71f72f582403480c4bd93"
+    },
+    {
+      "path": "/assets/aaa/home-actions/home-action-primary-v1.webp",
+      "bytes": 9944,
+      "sha256": "53ce6133c3f310e5f8fb0a77eaec921f6bc2a20c85d1a32e71fa9bacb8055ddb"
+    },
+    {
+      "path": "/assets/aaa/home-actions/home-action-secondary-v1.webp",
+      "bytes": 8438,
+      "sha256": "67722883681dcc785b65436eb85f9f8963a14d8190470248333154d17ac2e02e"
+    },
+    {
       "path": "/assets/aaa/home/fx-home-practice-contact-v1.webp",
       "bytes": 120164,
       "sha256": "c15d843297526f84eae240704859e26747d67192c1d4347fed210b5b77b0e8fe"
