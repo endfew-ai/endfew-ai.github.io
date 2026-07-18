@@ -527,6 +527,26 @@
       "sha256": "f56754ba7180bf849e24b392492caac42a4aafb81aaccdda2f10ab0369c11204"
     },
     {
+      "path": "/assets/aaa/result-actions/fx-result-action-contact-v1.webp",
+      "bytes": 5608,
+      "sha256": "12d18630481a93d820eef0fcf15bab5645862d80cd513ffbfa7bde23ff9b8d9b"
+    },
+    {
+      "path": "/assets/aaa/result-actions/result-action-retry-v1.webp",
+      "bytes": 22762,
+      "sha256": "dd045748124f25b1338e93d8180cf6a2c97d68b204ec4a8de5cba34c91b364e6"
+    },
+    {
+      "path": "/assets/aaa/result-actions/result-action-secondary-v1.webp",
+      "bytes": 10964,
+      "sha256": "ecb250a986a3a8b8d5320ff6268de0c4427780de66bab81f167b86c294816c37"
+    },
+    {
+      "path": "/assets/aaa/result-actions/result-action-success-v1.webp",
+      "bytes": 23586,
+      "sha256": "20e321dfd9b6d69b84546d44059ac160b675f9f88ab509fcd79ceccefef4eaff"
+    },
+    {
       "path": "/assets/aaa/speed-tower/tower-realm-01-dawn-academy-bg-v1.webp",
       "bytes": 370924,
       "sha256": "84cb6dda1d9b53528dafd59bf267d1d1491c40040501706b2c122ca80a786b94"
