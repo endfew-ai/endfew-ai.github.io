@@ -57,6 +57,11 @@
       "sha256": "d65d123b994fa4ba748d27792a4eba86b0191f91d4b472d5810525f95cdea6e5"
     },
     {
+      "path": "/assets/aaa/core/fx-global-input-speed-v1.webp",
+      "bytes": 5440,
+      "sha256": "5fd148a17e232f8416b16382d7012737b61c6527b9156918ffeee06363d41e80"
+    },
+    {
       "path": "/assets/aaa/core/fx-module-focus-v1.webp",
       "bytes": 68238,
       "sha256": "2b8a50aa18dcb65f384d252b85872df40f1221f3df930f52d55de88735e8c007"
