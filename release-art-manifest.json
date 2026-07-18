@@ -1037,6 +1037,11 @@
       "sha256": "13381e735863380ac6212dbcbcb3232ec537208d4daa6ff68fae1abfb606eb92"
     },
     {
+      "path": "/assets/iching/academy-home/fx-academy-leaderboard-tab-contact-v1.webp",
+      "bytes": 20384,
+      "sha256": "ac64d0287531a433187c42319a8b54e740408ea829a476943dff5872ca3b19b8"
+    },
+    {
       "path": "/assets/iching/academy-home/fx-academy-medallion-contact-v1.webp",
       "bytes": 123180,
       "sha256": "3a381063a6ead1399852f1bbbeeeba53400c61ffa1f20a8cfe46c4f4e406eccb"
@@ -1045,6 +1050,11 @@
       "path": "/assets/iching/academy-home/fx-academy-navigation-contact-v1.webp",
       "bytes": 26358,
       "sha256": "1148731b3baf06527fef6e98aa8e784c00015a77684ce45831d942b20e546d55"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-profile-contact-v1.webp",
+      "bytes": 53028,
+      "sha256": "b528226e7aad2113c6c3140a9dabb09c34fdc25c62a024b74e7a94817040896a"
     },
     {
       "path": "/assets/iching/academy-home/fx-battle-contact-v1.webp",
