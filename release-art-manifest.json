@@ -907,6 +907,11 @@
       "sha256": "a7b0be86b01c9401f974089c11e316cbc1357c248ea1d7199cb0e9369fa78ce2"
     },
     {
+      "path": "/assets/iching/academy-home/academy-bottom-navigation-states-v1.webp",
+      "bytes": 60398,
+      "sha256": "ff9035261a497876073c36a6921da3fbb759fad2fb74a88f88b7b2cf2fbb9477"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-command-panel-v1.webp",
       "bytes": 58890,
       "sha256": "e9b6f81218f829a23c49f060742a8daea68c961744b01dcf4548cd4f1e7006aa"
@@ -932,6 +937,11 @@
       "sha256": "e6be11d3d60cd6e9db16edd8438f3957a1cfc1d499eb67660fb41a2572ab2ba8"
     },
     {
+      "path": "/assets/iching/academy-home/academy-top-navigation-states-v1.webp",
+      "bytes": 131270,
+      "sha256": "0efd19d75a000660b492702c8ce0eb1b267be0d43e6d001cb08389b266d7cbe7"
+    },
+    {
       "path": "/assets/iching/academy-home/feature-battle-v1.webp",
       "bytes": 56108,
       "sha256": "8b0bd5a8dfcc3616e65a329359116628dfed6bdf260a579ce6765e570780ba61"
@@ -950,6 +960,11 @@
       "path": "/assets/iching/academy-home/feature-trial-v1.webp",
       "bytes": 74910,
       "sha256": "0b04c2177180d4e2f785f54d3a046a2209887cf7e9853901618ccec4023a5d13"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-navigation-contact-v1.webp",
+      "bytes": 26358,
+      "sha256": "1148731b3baf06527fef6e98aa8e784c00015a77684ce45831d942b20e546d55"
     },
     {
       "path": "/assets/iching/academy-home/fx-battle-contact-v1.webp",
