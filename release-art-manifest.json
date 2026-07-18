@@ -932,6 +932,26 @@
       "sha256": "d57ce753245c358d53bbeaafb7c028fb5a3f742e27fb7cc860d1d9bebc8977ed"
     },
     {
+      "path": "/assets/iching/academy-home/academy-info-quote-panel-v1.webp",
+      "bytes": 18640,
+      "sha256": "405732ccebce99e83a314db232f3c1e789872527b442dc56b11119d3ba4819d2"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-reward-panel-v1.webp",
+      "bytes": 20604,
+      "sha256": "2697735a08e4d84d72a004ddbdf2d639d9b44548bf52f0111fef95dff3b045d8"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-score-panel-v1.webp",
+      "bytes": 32684,
+      "sha256": "6d631f50768b0550e74839e32845c92d20118779de7d0b719ef3171de9ffac9e"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-info-study-panel-v1.webp",
+      "bytes": 14908,
+      "sha256": "fe2631027a6d68c8d00cf7a227a08215c9a427f1db9ae42d8ead4be461fcb82d"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-leaderboard-panel-v1.webp",
       "bytes": 44624,
       "sha256": "4d5a138124f0f302ae60aa7bfcc7ece02a5e0e7d83180c57caf24b7147ce1090"
