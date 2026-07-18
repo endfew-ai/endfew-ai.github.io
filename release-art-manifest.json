@@ -1027,6 +1027,16 @@
       "sha256": "0b04c2177180d4e2f785f54d3a046a2209887cf7e9853901618ccec4023a5d13"
     },
     {
+      "path": "/assets/iching/academy-home/fx-academy-command-action-contact-v1.webp",
+      "bytes": 35348,
+      "sha256": "cd056047b1e3de715e5d3942b6830d6ec33a877e5282e18cf4ef360802a86c24"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-command-close-contact-v1.webp",
+      "bytes": 44478,
+      "sha256": "17d7431e1ef9c4b5949a2252523310f579c9264d64d84d90b1e18a6234de8d83"
+    },
+    {
       "path": "/assets/iching/academy-home/fx-academy-daily-task-contact-v1.webp",
       "bytes": 7180,
       "sha256": "688d8eea7ff18708a008958031bfa99a56c4ba626723f1cbb47d933ce42e52ef"
