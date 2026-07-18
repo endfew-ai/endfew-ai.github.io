@@ -912,14 +912,34 @@
       "sha256": "ff9035261a497876073c36a6921da3fbb759fad2fb74a88f88b7b2cf2fbb9477"
     },
     {
+      "path": "/assets/iching/academy-home/academy-central-navigation-medallion-v1.webp",
+      "bytes": 72422,
+      "sha256": "8a610d1cc534995a4787f32446d8be33072ec284654a4f9ab019e7ba40f833ad"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-command-panel-v1.webp",
       "bytes": 58890,
       "sha256": "e9b6f81218f829a23c49f060742a8daea68c961744b01dcf4548cd4f1e7006aa"
     },
     {
+      "path": "/assets/iching/academy-home/academy-daily-panel-v1.webp",
+      "bytes": 37156,
+      "sha256": "3915f64277c67acba6141ce04c01c6a037d5c620bb5457710da6a42483391c04"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-gold-ink-title-swash-v1.webp",
       "bytes": 185072,
       "sha256": "d57ce753245c358d53bbeaafb7c028fb5a3f742e27fb7cc860d1d9bebc8977ed"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-leaderboard-panel-v1.webp",
+      "bytes": 44624,
+      "sha256": "4d5a138124f0f302ae60aa7bfcc7ece02a5e0e7d83180c57caf24b7147ce1090"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-leaderboard-tab-states-v1.webp",
+      "bytes": 33256,
+      "sha256": "c1b221b62eb32a6a6ca11fc6f1cbf9a694e347fd2c7ed3c76d6ea44ab14c41bb"
     },
     {
       "path": "/assets/iching/academy-home/academy-ornamental-overlay-v1.webp",
@@ -935,6 +955,11 @@
       "path": "/assets/iching/academy-home/academy-primary-button-states-v2.webp",
       "bytes": 58686,
       "sha256": "e6be11d3d60cd6e9db16edd8438f3957a1cfc1d499eb67660fb41a2572ab2ba8"
+    },
+    {
+      "path": "/assets/iching/academy-home/academy-top-navigation-icons-v1.webp",
+      "bytes": 98552,
+      "sha256": "87eee231d08fa1d2f60f2a773e393d9c736fd95ab3c342472b192f7a310fa472"
     },
     {
       "path": "/assets/iching/academy-home/academy-top-navigation-states-v1.webp",
