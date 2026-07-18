@@ -852,6 +852,26 @@
       "sha256": "73ffd82b589b135ec57573961945aab8b6f0f0e0a26ea4fc35e8e90fefbe037e"
     },
     {
+      "path": "/assets/aaa/utility-actions/fx-utility-action-icon-contact-v1.webp",
+      "bytes": 1436,
+      "sha256": "1216f6758129a873f0672d2ff1dbedcaa531fa6c51253ebca8dd1bf22bed8bcc"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/fx-utility-action-wide-contact-v1.webp",
+      "bytes": 1918,
+      "sha256": "d589aa07dcfc866bf48474375330b0406108566745f37829e4ba2aa76351eb5c"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/utility-action-icon-plate-v1.webp",
+      "bytes": 7582,
+      "sha256": "13b5aeb9fe2267c52873991f92daf1aade795abffd53ebc8a4f62584aa5bea83"
+    },
+    {
+      "path": "/assets/aaa/utility-actions/utility-action-wide-plate-v1.webp",
+      "bytes": 12484,
+      "sha256": "a7b0be86b01c9401f974089c11e316cbc1357c248ea1d7199cb0e9369fa78ce2"
+    },
+    {
       "path": "/assets/learning/badges/review-book.png",
       "bytes": 496358,
       "sha256": "4804647b805a57300af149b83cb873e1f9c641af152df10d0ebf39df3429d42c"
