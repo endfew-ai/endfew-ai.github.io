@@ -912,6 +912,11 @@
       "sha256": "e9b6f81218f829a23c49f060742a8daea68c961744b01dcf4548cd4f1e7006aa"
     },
     {
+      "path": "/assets/iching/academy-home/academy-gold-ink-title-swash-v1.webp",
+      "bytes": 185072,
+      "sha256": "d57ce753245c358d53bbeaafb7c028fb5a3f742e27fb7cc860d1d9bebc8977ed"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-ornamental-overlay-v1.webp",
       "bytes": 306248,
       "sha256": "8965ea6bc6ab24f8685119615b76f002cf610eb58d0aaeb8bacf66ea19d726d0"
