@@ -397,6 +397,21 @@
       "sha256": "e3505695d507483e6585ce061be869d3e6d895af7d601ba05c8981b351261c82"
     },
     {
+      "path": "/assets/aaa/native-select-controls/fx-native-select-contact-v1.webp",
+      "bytes": 5724,
+      "sha256": "dd7c2605bc6cf115ca4b380830f1a156ff18d0140190f71dfcf42b8f23ad1574"
+    },
+    {
+      "path": "/assets/aaa/native-select-controls/native-select-focus-v1.webp",
+      "bytes": 52754,
+      "sha256": "e7ff13960d249b685726a2c6cfa8d68a7dede3863ac26fe0e3a56296f8a31919"
+    },
+    {
+      "path": "/assets/aaa/native-select-controls/native-select-plate-v1.webp",
+      "bytes": 44966,
+      "sha256": "6bfe8a7d3f64a34eb6c4b2e78f8f0986346fdce82c4dae6373875e817d0f893f"
+    },
+    {
       "path": "/assets/aaa/reaction-hub/fx-reaction-hub-classic-contact-v1.webp",
       "bytes": 73992,
       "sha256": "89d63afe9a3acfc5ae0593095f26c4e99818b7e75e3224fc1d7080c79e6db00b"
