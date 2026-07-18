@@ -12,6 +12,16 @@
       "sha256": "20456d0e882ffd6e03de6be7e6e804661b029a83a99fb0263a79abd9ac902ce3"
     },
     {
+      "path": "/assets/aaa/core/fx-answer-contact-correct-v1.webp",
+      "bytes": 12392,
+      "sha256": "bff6ab6ea780a5a50a4f264bf2253c69d767e6801b06fae9fbed2c1599b6763b"
+    },
+    {
+      "path": "/assets/aaa/core/fx-answer-contact-wrong-v1.webp",
+      "bytes": 14218,
+      "sha256": "29a259270a0308cc3abcad31bfff63a7121628c0595ce5dddf6043184d60d8c2"
+    },
+    {
       "path": "/assets/aaa/core/fx-answer-handoff-awaken-v1.webp",
       "bytes": 57626,
       "sha256": "e8f60f22ccdc11e77b7595e11788f2a5ef31824931cd82af7fa7aed271df7974"
