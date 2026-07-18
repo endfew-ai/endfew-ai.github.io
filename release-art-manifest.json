@@ -932,6 +932,26 @@
       "sha256": "0b04c2177180d4e2f785f54d3a046a2209887cf7e9853901618ccec4023a5d13"
     },
     {
+      "path": "/assets/iching/academy-home/fx-battle-contact-v1.webp",
+      "bytes": 17976,
+      "sha256": "864d81e5c6569ac7c11921af499f5fb2990259c2e03033a2982b4a295589d548"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-study-contact-v1.webp",
+      "bytes": 16242,
+      "sha256": "7bd9aa7a404af801cc825d92e2fdb7f227e741d0a4facf1660ab7eceab2700ad"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-training-contact-v1.webp",
+      "bytes": 19618,
+      "sha256": "babd54707e1db6ac53f62de4cad62fa7d0fe7fe69ec7d95baf8a129ab5296a51"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-trial-contact-v1.webp",
+      "bytes": 15634,
+      "sha256": "339d59ca630fa588e34572ef26f260c4dbf2ee612df9ef643811f71226c8d3ce"
+    },
+    {
       "path": "/assets/iching/academy-home/player-scholar-v1.webp",
       "bytes": 17350,
       "sha256": "51e241561bd93b91a0a07d3487b81bb7b88073222b6c434f3a9b5ab32bbfbf14"
