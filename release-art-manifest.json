@@ -177,6 +177,21 @@
       "sha256": "db69c0c4349087bf9d7b096c65d8a3f57e3edee0a29b2156d36a74de7194fc0d"
     },
     {
+      "path": "/assets/aaa/global-hud/fx-global-hud-control-contact-v1.webp",
+      "bytes": 2602,
+      "sha256": "73498eec970b9c2ee501634fc994a60dfe5692e0357833a26d33a683f84910ec"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-brand-plate-v1.webp",
+      "bytes": 8934,
+      "sha256": "3c601e7ff8e2029d02b458049566394604b6f607059056eb4a579a8a8972da13"
+    },
+    {
+      "path": "/assets/aaa/global-hud/global-hud-stat-plate-v1.webp",
+      "bytes": 2536,
+      "sha256": "a05592b7be8b7478fadd664b393cfb6725695de9e0b57e9acd47ff473fd907a0"
+    },
+    {
       "path": "/assets/aaa/grandmaster/fx-discipline-hexagram-v1.webp",
       "bytes": 280146,
       "sha256": "dcccb26a9beaa492665489a99b2ff945d722298d373da1021ec7b390261c12d2"
