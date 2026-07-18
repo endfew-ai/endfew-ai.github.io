@@ -112,6 +112,16 @@
       "sha256": "cda64651f3db46ca1eb2f5ecdcc3f0aa87c595955068d1f1684e727d15d76783"
     },
     {
+      "path": "/assets/aaa/core/fx-trigram-choice-contact-v1.webp",
+      "bytes": 60398,
+      "sha256": "ebb9f1dcd6f12788c1ad066b583206f57ee514eb0d8bc5401bbb2a7b7484adb5"
+    },
+    {
+      "path": "/assets/aaa/core/fx-trigram-speed-choice-contact-v1.webp",
+      "bytes": 54892,
+      "sha256": "dedd36b190fb18246ce7d14d753d7757535979a62ebe7019649ae7f25eab7c73"
+    },
+    {
       "path": "/assets/aaa/eight-palaces/eight-palaces-academy-bg-v1.webp",
       "bytes": 277014,
       "sha256": "b8257f0eda102d904dec8244c1ef41b1b6478c4e33c778b13fc4d7e10499b094"
