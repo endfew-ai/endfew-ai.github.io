@@ -937,6 +937,11 @@
       "sha256": "d57ce753245c358d53bbeaafb7c028fb5a3f742e27fb7cc860d1d9bebc8977ed"
     },
     {
+      "path": "/assets/iching/academy-home/academy-info-action-states-v1.webp",
+      "bytes": 54896,
+      "sha256": "2f6e1e812f2b2a43f81b44dadb9d78f5b81d7ddaab4d0a7580055772b38faa52"
+    },
+    {
       "path": "/assets/iching/academy-home/academy-info-quote-panel-v1.webp",
       "bytes": 18640,
       "sha256": "405732ccebce99e83a314db232f3c1e789872527b442dc56b11119d3ba4819d2"
@@ -1020,6 +1025,11 @@
       "path": "/assets/iching/academy-home/fx-academy-daily-task-contact-v1.webp",
       "bytes": 7180,
       "sha256": "688d8eea7ff18708a008958031bfa99a56c4ba626723f1cbb47d933ce42e52ef"
+    },
+    {
+      "path": "/assets/iching/academy-home/fx-academy-info-action-contact-v1.webp",
+      "bytes": 3296,
+      "sha256": "13381e735863380ac6212dbcbcb3232ec537208d4daa6ff68fae1abfb606eb92"
     },
     {
       "path": "/assets/iching/academy-home/fx-academy-navigation-contact-v1.webp",
